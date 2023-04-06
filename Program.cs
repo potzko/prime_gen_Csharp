@@ -12,7 +12,7 @@ void main(){
         Console.WriteLine("got {0} as the {1}'th prime", ret, num);
         Console.WriteLine("took {0} seconds to calc", sw.Elapsed.TotalSeconds);
     }
-    test(100_000_000);
+    test(50_000_000);
 }
 main();
 
@@ -55,8 +55,6 @@ public static class Primes
             }
         }
         Primes.segment++;
-        seg = null;
-        GC.Collect();
     }
     public static int getNthPrime(int ind){
         //returns the nth prime

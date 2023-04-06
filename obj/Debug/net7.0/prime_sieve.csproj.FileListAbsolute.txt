@@ -1,0 +1,15 @@
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\bin\Debug\net7.0\prime_sieve.exe
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\bin\Debug\net7.0\prime_sieve.deps.json
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\bin\Debug\net7.0\prime_sieve.runtimeconfig.json
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\bin\Debug\net7.0\prime_sieve.dll
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\bin\Debug\net7.0\prime_sieve.pdb
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\obj\Debug\net7.0\prime_sieve.csproj.AssemblyReference.cache
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\obj\Debug\net7.0\prime_sieve.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\obj\Debug\net7.0\prime_sieve.AssemblyInfoInputs.cache
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\obj\Debug\net7.0\prime_sieve.AssemblyInfo.cs
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\obj\Debug\net7.0\prime_sieve.csproj.CoreCompileInputs.cache
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\obj\Debug\net7.0\prime_sieve.dll
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\obj\Debug\net7.0\refint\prime_sieve.dll
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\obj\Debug\net7.0\prime_sieve.pdb
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\obj\Debug\net7.0\prime_sieve.genruntimeconfig.cache
+D:\Programing\IDE\vscProjects\Csharp\prime_sieve\obj\Debug\net7.0\ref\prime_sieve.dll
